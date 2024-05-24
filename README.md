@@ -1,9 +1,2 @@
-# SomeTools
-A collection of tools :)
-
-## ImageExifInfo
-Extract EXIF metadata from an image
-
-## ICMP-Tunneling
-
-## Windows-Injections
+# SecurityTools
+A collection of tools for security researchers.
